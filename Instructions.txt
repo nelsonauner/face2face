@@ -1,0 +1,21 @@
+Want to contribute? It's easy. 
+First, the basics of git: 
+
+(on local computer)
+git init
+git add . 
+git commit -m "first commit"
+
+(on internet)
+go to github, create repository
+
+(on local computer)
+git remote add https://github.com/NAME/REPO_NAME
+git push -u origin master
+
+--Now you're good to go. Continue to [git add] [git commit] and [git push] -- 
+
+To Do's for this project:
+
+Transfer to python
+Web Interface
